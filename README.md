@@ -4,7 +4,7 @@
 
 🌱 I'm junior back-end developer
 
-👨‍💻 I'm currently studying on Spring Boot
+👨‍💻 I'm currently studying on AWS
 
 🏅 I'm currently working at Kyobo Life Insurance
 
