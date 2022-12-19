@@ -6,7 +6,7 @@
 
 👨‍💻 I'm currently studying on Spring Boot
 
-🏅 I'm currently completing the 3rd phase of K-Digital Training fintech service back-end developer course.
+🏅 I'm currently working at Kyobo Life Insurance
 
 📧 Email: kiaeh9269@gmail.com
 
